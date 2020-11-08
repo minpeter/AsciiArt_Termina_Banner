@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "cat /home/$USER/.startascii" >> /home/$USER/.bashrc

@@ -1,0 +1,3 @@
+#!/bin/bash
+./ASCII
+cp output.txt ~/.startascii
